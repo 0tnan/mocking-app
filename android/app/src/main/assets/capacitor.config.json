@@ -1,0 +1,6 @@
+{
+	"appId": "com.mocking.app",
+	"appName": "mocking-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
